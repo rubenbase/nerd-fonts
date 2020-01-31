@@ -35,6 +35,32 @@ The following Sankey flow diagram shows the current glyph sets included:
 
 [**TL;DR**](#tldr)
 
+[**Pre requisites**](#pre-requisites)
+
+[**Features**](#features)
+  * [**Glyph/Icon sets**](#glyph-sets)
+  * [**Patched Fonts**](#patched-fonts)
+  * [**Combinations**](#combinations)
+  * [**Font Patcher**](#font-patcher)
+
+[**Developer / Contributor**](#font-patcher)
+  * [**Font Patcher**](#font-patcher)
+  * [**Gotta Patch 'em All Font Patcher!**](#gotta-patch-em-all)
+  * [**Other Good Fonts to Patch**](#other-good-fonts-to-patch)
+  * [**Contributing**](#contributing)
+
+[**Project Motivation**](#project-motivation)
+
+**Additional Info**
+  * [**Unstable file paths on master**](#unstable-file-paths)
+  * [**Changelog**](#changelog)
+  * [**License**](#license)
+
+
+----------------------------------------
+
+[**TL;DR**](#tldr)
+
 [**Installation Options**](#font-installation)
   * [**1 - Manual**](#option-1-download-and-install-manually)
   * [**2 - Release Archive Download**](#option-2-release-archive-download)
